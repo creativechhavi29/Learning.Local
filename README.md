@@ -1,7 +1,7 @@
 # Practice 3
-<br>
-Buidling locally.
 
-## Practice 4 
-<br>
+Building locally.
+
+## Practice 4
+
 1. Learning branches in GitHub and Git.
